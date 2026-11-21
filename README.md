@@ -1,10 +1,10 @@
-#Project: FPGA-Based LoRa Wireless Communication System with BER Analysis
-Platform: Major Project, Dept. of Electronics & Communication Engineering, VCET Puttur
+# Project: FPGA-Based LoRa Wireless Communication System with BER Analysis
+**Platform**: Major Project, Dept. of Electronics & Communication Engineering, VCET Puttur
 
-Project Overview
+**Project Overview**
 
-** Purpose**: An end-to-end wireless data link that transmits predefined binary data over LoRa and measures how reliably it arrives, using Bit Error Rate (BER) analysis.
-** Core Workflow**: The transmitter FPGA generates and packetizes data and sends it to a LoRa transceiver over SPI. The receiver FPGA reads the received data back over SPI, compares it with the known data, and shows the BER on an LCD.
+**Purpose**: An end-to-end wireless data link that transmits predefined binary data over LoRa and measures how reliably it arrives, using Bit Error Rate (BER) analysis.
+**Core Workflow**: The transmitter FPGA generates and packetizes data and sends it to a LoRa transceiver over SPI. The receiver FPGA reads the received data back over SPI, compares it with the known data, and shows the BER on an LCD.
 
 Key Features
 
